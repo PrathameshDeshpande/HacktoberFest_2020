@@ -1,4 +1,4 @@
-# <div align="center" >HacktoberFest_2020</div>
+# <div align="center" >👨🏽‍💻HacktoberFest_2020❄️</div>
 <p align='center'>
  <img src="https://img.shields.io/badge/-HacktoberFest2020-blue?style=for-the-badge" /></a>
  <img src="https://forthebadge.com/images/badges/built-with-love.svg" /></a>
@@ -16,15 +16,15 @@
  </p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-## <div align="center" >How To Make Your Own Pull Request</div>
+## <div align="center" >🔥How To Make Your Own Pull Request🔥</div>
 
 ### 1. Go to the top right corner of this page and click on the **Fork** Button.This creates a new copy of my demo repo under your GitHub user account with a URL like:
 ```
-https://github.com/<YourUserName>/HacktoberFest2020
+https://github.com/<YourUserName>/HacktoberFest_2020
 ```
 ### 2. Go to any folder, open terminal and type:
 ```
-git clone https://github.com/<YourUserName>/HacktoberFest2020
+git clone https://github.com/<YourUserName>/HacktoberFest_2020
 ```
 ### 3. Once the repo is cloned, **navigate to the Hacktoberfest2020 folder** and you need to do two things:
 
@@ -36,7 +36,7 @@ git clone https://github.com/<YourUserName>/HacktoberFest2020
    - Create a new remote for the upstream repo with the command:
 
    ```
-   git remote add upstream https://github.com/sd2001/HacktoberFest2020
+   git remote add upstream https://github.com/PrathameshDeshpande/HacktoberFest_2020
    ```
 *In this case, "upstream repo" refers to the original repo you created your fork from.*
 
@@ -68,7 +68,7 @@ git clone https://github.com/<YourUserName>/HacktoberFest2020
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-## <div align="center" >Hurray!! You Successfully Made A PR To This Repo </div>
+# <div align="center" >Hurray!!👏 You Successfully Made A PR To This Repo🤝 </div>
 
 ### ⭐️ Make 4 Such Pr's To Get Exclusive Swags And Tee's From Github :
 
@@ -76,6 +76,16 @@ git clone https://github.com/<YourUserName>/HacktoberFest2020
 <img align="left" width="400" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/congo.gif">
 <img align="left" width="380" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/pr.gif">
 </p>
+<p>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</p>
 
+# <div align="center" >THANK YOU 🤩 SEE YAA!! BYEEEEE HAVE A NICE DAY🧙🧛🏼</div>
+
+<p>
+ <img align="left" width="1000" height="400" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/download.jpg">
+<img align="left" width="1000" height="400" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/p.gif">
+</p>
 
 
