@@ -71,7 +71,7 @@ git clone https://github.com/<YourUserName>/HacktoberFest_2020
 
 # <div align="center" >Hurray!!👏 You Successfully Made A PR To This Repo🤝 </div>
 
-### ⭐️ Make 4 Such Pr's To Get Exclusive Swags And Tee's From Github :
+### ⭐️ Make 4 Such Pr's To Get Exclusive Swags And Tee's From Github :-
 
 <p>
 <img align="left" width="400" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/congo.gif">
