@@ -74,7 +74,7 @@ git clone https://github.com/<YourUserName>/HacktoberFest2020
 
 <p>
 <img align="left" width="430" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/congo.gif">
-<img align="left" width="380" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/pr.gif">
+<img align="left" width="360" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/pr.gif">
 </p>
 
 
