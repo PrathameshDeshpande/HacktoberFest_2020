@@ -15,7 +15,7 @@
 <img src="http://ForTheBadge.com/images/badges/winter-is-coming.svg" /></a>
 </p> 
  <p align="center">
-<img align="left" width="500" height="500" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif">
+<img align="left" width="800" height="800" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif">
  </p> 
  <p align="center">
 <img align="left" width="1200" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/hack.gif">
