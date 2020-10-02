@@ -8,9 +8,12 @@
  <img src="https://img.shields.io/github/stars/PrathameshDeshpande/HacktoberFest_2020?style=for-the-badge" /></a>
  <img src="https://img.shields.io/github/forks/PrathameshDeshpande/HacktoberFest_2020?style=for-the-badge" /></a>
  <img src="https://img.shields.io/github/contributors/PrathameshDeshpande/HacktoberFest_2020?style=for-the-badge" /></a>
- <img src="http://ForTheBadge.com/images/badges/winter-is-coming.svg" /></a><br>
 </p>
 <p align="center">
+ 
+ <p align="center">
+<img src="http://ForTheBadge.com/images/badges/winter-is-coming.svg" /></a>
+</p> 
 
 <img align="left" width="1200" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/hack.gif">
  </p>
